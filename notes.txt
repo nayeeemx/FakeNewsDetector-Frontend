@@ -1,0 +1,10 @@
+use npm build to build node_modules
+
+Build and Development Tools
+
+When you run npm start or npm build, tools like Webpack, Babel, and ESLint (which live inside node_modules) compile your React code to a format that browsers can understand.
+These tools optimize your app, enable JSX support, and ensure smooth execution.
+React's Core Functionality
+
+Even though React is a frontend framework, it relies on node_modules to work.
+If you delete node_modules, your app won't even start because the core React library will be missing.
