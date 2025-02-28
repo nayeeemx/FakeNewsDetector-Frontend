@@ -24,3 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 backend/
 backend/*.pkl
+backend/
+node_modules/
